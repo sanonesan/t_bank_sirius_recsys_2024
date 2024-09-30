@@ -5,6 +5,8 @@ __pycache__/
 
 data/
 
+candidates_full.zip
+
 *.csv
 *.dill
 # C extensions
